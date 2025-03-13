@@ -23,9 +23,9 @@ confluentinc/cp-kafka
 ```
 
 ## Running Locally
-- Run Multiple Consumers
+- Run Consumers
 ```bash
-node consumer.js <GROUP_NAME>
+node consumer.js
 ```
 - Create Producer
 ```bash
